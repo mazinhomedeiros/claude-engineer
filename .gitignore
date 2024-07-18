@@ -1,5 +1,7 @@
 #Ignore all files
 .env
+venv/
+code_execution_env/
 
 # But not these files...
 .git
