@@ -1,0 +1,8 @@
+#Ignore all files
+.env
+
+# But not these files...
+.git
+!main.py
+!readme.md
+!requirements.txt
