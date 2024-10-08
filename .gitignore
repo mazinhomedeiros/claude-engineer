@@ -1,0 +1,10 @@
+#Ignore all files
+.env
+venv/
+code_execution_env/
+
+# But not these files...
+.git
+!main.py
+!readme.md
+!requirements.txt
